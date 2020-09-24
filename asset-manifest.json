@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.370974ea.chunk.css",
+    "main.js": "/static/js/main.a67f47ab.chunk.js",
+    "main.js.map": "/static/js/main.a67f47ab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.228a6581.js",
+    "runtime-main.js.map": "/static/js/runtime-main.228a6581.js.map",
+    "static/js/2.e7f67dc4.chunk.js": "/static/js/2.e7f67dc4.chunk.js",
+    "static/js/2.e7f67dc4.chunk.js.map": "/static/js/2.e7f67dc4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.12389a3845276e6c4351a4689a76b0e0.js": "/precache-manifest.12389a3845276e6c4351a4689a76b0e0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.370974ea.chunk.css.map": "/static/css/main.370974ea.chunk.css.map",
+    "static/js/2.e7f67dc4.chunk.js.LICENSE.txt": "/static/js/2.e7f67dc4.chunk.js.LICENSE.txt",
+    "static/media/SqareD@2x.png": "/static/media/SqareD@2x.275a2ec6.png",
+    "static/media/bubble@2x.png": "/static/media/bubble@2x.84d09402.png",
+    "static/media/caseyrileybackandglow.jpg": "/static/media/caseyrileybackandglow.db2989b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.228a6581.js",
+    "static/js/2.e7f67dc4.chunk.js",
+    "static/css/main.370974ea.chunk.css",
+    "static/js/main.a67f47ab.chunk.js"
+  ]
+}

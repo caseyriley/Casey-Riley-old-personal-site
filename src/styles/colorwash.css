@@ -1,0 +1,38 @@
+.color-wash{
+  /* position: absolute; */
+  /* top: 200px; */
+  /* left: 300px; */
+  width: 250px;
+  height: 125px;
+  background-image: linear-gradient(to right top, #6c22bd, #8b25bb, #a52bb9, #bc34b7, #d040b5, #e645a5, #f55195, #ff6188, #ff796e, #ff965b, #f5b255, #e1cd60);
+  filter: blur(50px);
+  border-radius: 50%;
+  transition: all 400ms ease-in-out;
+  /* transform-origin: center center; */
+  opacity: .5;
+  z-index: 0;
+}
+.color-wash2{
+  /* position: absolute; */
+  top: 100px;
+  left: 350px;
+  width: 250px;
+  height: 125px;
+  background-image: linear-gradient(to right top, #22b3bd, #9525bb, #2ba4b9, #22dfe3, #2323ee, #a845e6, #6505ff, #00bbff, #6efdff, #5bffe6, #55f5d0, #60e1a9);
+  filter: blur(50px);
+  border-radius: 50%;
+  transition: all 400ms ease-in-out;
+  transform-origin: center center;
+  opacity: .5;
+  z-index: 0;
+}
+.color-lit {
+    opacity: 1;
+    /* -webkit-transform: scale(1.1) skewY(-15deg) translate(-46%, -44%); */
+    /* width: 100%; */
+    transform: scale(2);
+}
+
+
+
+
